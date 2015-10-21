@@ -149,7 +149,7 @@ a:focus {
     text-align: center;
     color: #fff;
     color: #000;
-    background: url(../img/6478880507_19f0725af1_o4.jpg) no-repeat bottom center scroll;
+    background: url(../img/6478880507_19f0725af1_o4.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -158,11 +158,12 @@ a:focus {
 }
 
 .intro .intro-body {
-    display: table-cell;
+   display: table-cell;
     vertical-align: middle;
 }
 
 .intro .intro-body .brand-heading {
+    margin-top:330px;
     font-size: 40px;
 }
 
