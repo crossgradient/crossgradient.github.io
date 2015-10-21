@@ -296,7 +296,7 @@ font-size: 18px;
 
 @media(min-width:767px) {
     .content-section {
-        padding-top: 150px;
+        padding: 150px 0;
     }
 
     .download-section {
